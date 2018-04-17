@@ -73,3 +73,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+BattleTanks/Content/StarterContent/Architecture/Wall_400x200.uasset
+BattleTanks/Content/StarterContent/
+BattleTanks/Intermediate/
+BattleTanks/Saved/
